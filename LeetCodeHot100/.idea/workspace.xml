@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b9367d-bec3-4e36-b189-3d23e313575e" name="Default Changelist" comment="" />
+    <list default="true" id="13b9367d-bec3-4e36-b189-3d23e313575e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm437.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +34,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -47,6 +55,9 @@
     <option name="vmOptions" value="-DarchetypeCatalog=local" />
   </component>
   <component name="ProjectId" id="1XZIkgbFj4HuutgQyfsTCr5Uhot" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -60,11 +71,12 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dataStrutureTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -210,11 +222,15 @@
       <workItem from="1582772365070" duration="3149000" />
       <workItem from="1582794118589" duration="6534000" />
       <workItem from="1582876829703" duration="8082000" />
+      <workItem from="1582961368592" duration="5393000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1203" y="391" key="#com.intellij.ide.util.MemberChooser" timestamp="1582706815792">
@@ -233,6 +249,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="201" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582705132416" />
+    <state x="630" y="148" key="CommitChangelistDialog2" timestamp="1582966193347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="630" y="148" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582966193347" />
     <state x="872" y="319" key="FileChooserDialogImpl" timestamp="1582876897629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
