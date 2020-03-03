@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13b9367d-bec3-4e36-b189-3d23e313575e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm543.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm581.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm211.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm303.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm307.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm677.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm78.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -225,7 +230,12 @@
       <workItem from="1582876829703" duration="8082000" />
       <workItem from="1582961368592" duration="6200000" />
       <workItem from="1582975373616" duration="16000" />
-      <workItem from="1583031723533" duration="8940000" />
+      <workItem from="1583031723533" duration="9181000" />
+      <workItem from="1583056466638" duration="8410000" />
+      <workItem from="1583115596744" duration="727000" />
+      <workItem from="1583138235022" duration="1209000" />
+      <workItem from="1583210016342" duration="5150000" />
+      <workItem from="1583238236175" duration="8964000" />
     </task>
     <task id="LOCAL-00001" summary="更新第437题和第121题">
       <created>1582967634192</created>
@@ -234,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582967634192</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新第53、155、543以及581题。至此完成简单问题的解答">
+      <created>1583040737332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583040737332</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +262,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -253,13 +272,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新第437题和第121题" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新第437题和第121题" />
+    <MESSAGE value="更新第53、155、543以及581题。至此完成简单问题的解答" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新第53、155、543以及581题。至此完成简单问题的解答" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1203" y="391" key="#com.intellij.ide.util.MemberChooser" timestamp="1582706815792">
+    <state x="1203" y="391" key="#com.intellij.ide.util.MemberChooser" timestamp="1583056871747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1203" y="391" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582706815792" />
+    <state x="1203" y="391" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583056871747" />
     <state x="938" y="453" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581257051987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -272,14 +292,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="201" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582705132416" />
-    <state x="229" y="166" key="CommitChangelistDialog2" timestamp="1582967633245">
+    <state x="719" y="209" key="CommitChangelistDialog2" timestamp="1583040736128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="229" y="166" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582967633245" />
-    <state x="872" y="319" key="FileChooserDialogImpl" timestamp="1582975387856">
+    <state x="719" y="209" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583040736128" />
+    <state x="872" y="319" key="FileChooserDialogImpl" timestamp="1583215018020">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="872" y="319" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582975387856" />
+    <state x="872" y="319" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583215018020" />
     <state width="1341" height="374" key="GridCell.Tab.0.bottom" timestamp="1582737612856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -304,14 +324,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1582209617747" />
-    <state x="683" y="329" key="Vcs.Push.Dialog.v2" timestamp="1582967739932">
+    <state x="683" y="329" key="Vcs.Push.Dialog.v2" timestamp="1583040748284">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="683" y="329" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582967739932" />
-    <state x="515" y="475" key="com.intellij.ide.util.TipDialog" timestamp="1582975373161">
+    <state x="683" y="329" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583040748284" />
+    <state x="634" y="448" key="com.intellij.ide.util.TipDialog" timestamp="1583214754238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="515" y="475" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582975373161" />
+    <state x="634" y="448" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583214754238" />
     <state x="762" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582184815263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
