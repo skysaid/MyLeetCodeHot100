@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13b9367d-bec3-4e36-b189-3d23e313575e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm208.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm211.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm303.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm307.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm347.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm677.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm287.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm338.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test1/Algorithm287Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test1/Algorithm406Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/META-INF/LeetCodeHot100.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test1/Algorithm148.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test1/Algorithm148.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,14 +86,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/javaeclipse/dataStrutureTest" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
@@ -102,7 +106,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Algorithm376Test.wiggleMaxLength">
+  <component name="RunManager" selected="JUnit.Algorithm406Test.reconstructQueue">
     <configuration name="ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test1.ListNode" />
       <module name="LeetCodeHot100" />
@@ -116,7 +120,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Algorithm300Test.lengthOfLIS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Algorithm287Test.findDuplicate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeHot100" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +129,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test1" />
-      <option name="MAIN_CLASS_NAME" value="test1.Algorithm300Test" />
-      <option name="METHOD_NAME" value="lengthOfLIS" />
+      <option name="MAIN_CLASS_NAME" value="test1.Algorithm287Test" />
+      <option name="METHOD_NAME" value="findDuplicate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -164,7 +168,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Algorithm494Test.findTargetSumWays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Algorithm406Test.reconstructQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeHot100" />
       <extension name="coverage">
         <pattern>
@@ -173,8 +177,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test1" />
-      <option name="MAIN_CLASS_NAME" value="test1.Algorithm494Test" />
-      <option name="METHOD_NAME" value="findTargetSumWays" />
+      <option name="MAIN_CLASS_NAME" value="test1.Algorithm406Test" />
+      <option name="METHOD_NAME" value="reconstructQueue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -182,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Algorithm406Test.reconstructQueue" />
+        <item itemvalue="JUnit.Algorithm287Test.findDuplicate" />
         <item itemvalue="JUnit.Algorithm376Test.wiggleMaxLength" />
         <item itemvalue="Application.ListNode" />
         <item itemvalue="JUnit.Algorithm300Test.lengthOfLIS2" />
-        <item itemvalue="JUnit.Algorithm300Test.lengthOfLIS" />
-        <item itemvalue="JUnit.Algorithm494Test.findTargetSumWays" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +239,13 @@
       <workItem from="1583115596744" duration="727000" />
       <workItem from="1583138235022" duration="1209000" />
       <workItem from="1583210016342" duration="5150000" />
-      <workItem from="1583238236175" duration="8964000" />
+      <workItem from="1583238236175" duration="9762000" />
+      <workItem from="1583291605627" duration="645000" />
+      <workItem from="1583310574421" duration="13049000" />
+      <workItem from="1583377455707" duration="1246000" />
+      <workItem from="1583396637309" duration="11629000" />
+      <workItem from="1583465236883" duration="680000" />
+      <workItem from="1583483008306" duration="13740000" />
     </task>
     <task id="LOCAL-00001" summary="更新第437题和第121题">
       <created>1582967634192</created>
@@ -251,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583040737332</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新第39、78、208、225、303、307、347、677题。">
+      <created>1583248664857</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583248664857</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,9 +290,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新第437题和第121题" />
     <MESSAGE value="更新第53、155、543以及581题。至此完成简单问题的解答" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新第53、155、543以及581题。至此完成简单问题的解答" />
+    <MESSAGE value="更新第39、78、208、225、303、307、347、677题。" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新第39、78、208、225、303、307、347、677题。" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="685" y="312" key="#Project_Structure" timestamp="1583487128273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="312" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583487128273" />
     <state x="1203" y="391" key="#com.intellij.ide.util.MemberChooser" timestamp="1583056871747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -292,30 +314,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="201" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582705132416" />
-    <state x="719" y="209" key="CommitChangelistDialog2" timestamp="1583040736128">
+    <state x="719" y="209" key="CommitChangelistDialog2" timestamp="1583248663248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="719" y="209" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583040736128" />
-    <state x="872" y="319" key="FileChooserDialogImpl" timestamp="1583215018020">
+    <state x="719" y="209" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583248663248" />
+    <state x="872" y="319" key="FileChooserDialogImpl" timestamp="1583498626417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="872" y="319" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583215018020" />
-    <state width="1341" height="374" key="GridCell.Tab.0.bottom" timestamp="1582737612856">
+    <state x="872" y="319" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583498626417" />
+    <state width="595" height="321" key="GridCell.Tab.0.bottom" timestamp="1583488840302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1341" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582737612856" />
-    <state width="1341" height="374" key="GridCell.Tab.0.center" timestamp="1582737612856">
+    <state width="595" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583488840302" />
+    <state width="595" height="321" key="GridCell.Tab.0.center" timestamp="1583488840301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1341" height="374" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582737612856" />
-    <state width="1341" height="374" key="GridCell.Tab.0.left" timestamp="1582737612856">
+    <state width="595" height="321" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583488840301" />
+    <state width="595" height="321" key="GridCell.Tab.0.left" timestamp="1583488840301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1341" height="374" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582737612856" />
-    <state width="1341" height="374" key="GridCell.Tab.0.right" timestamp="1582737612856">
+    <state width="595" height="321" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583488840301" />
+    <state width="595" height="321" key="GridCell.Tab.0.right" timestamp="1583488840301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1341" height="374" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582737612856" />
+    <state width="595" height="321" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583488840301" />
     <state x="493" y="190" key="SettingsEditor" timestamp="1582722737067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -324,22 +346,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1582209617747" />
-    <state x="683" y="329" key="Vcs.Push.Dialog.v2" timestamp="1583040748284">
+    <state x="683" y="329" key="Vcs.Push.Dialog.v2" timestamp="1583248677430">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="683" y="329" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583040748284" />
-    <state x="634" y="448" key="com.intellij.ide.util.TipDialog" timestamp="1583214754238">
+    <state x="683" y="329" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583248677430" />
+    <state x="634" y="448" key="com.intellij.ide.util.TipDialog" timestamp="1583483064215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="634" y="448" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583214754238" />
+    <state x="634" y="448" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583483064215" />
     <state x="762" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582184815263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="762" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1582184815263" />
-    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582627352504">
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583488757914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582627352504" />
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583488757914" />
     <state x="348" y="152" key="new project wizard" timestamp="1582725474893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
