@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13b9367d-bec3-4e36-b189-3d23e313575e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm309.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm394.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm399.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm621.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm647.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm75.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test1/Algorithm647Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm221.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/Algorithm79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test1/Algorithm56Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +108,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Algorithm394">
+  <component name="RunManager" selected="JUnit.Algorithm56Test.merge">
+    <configuration name="Algorithm33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1.Algorithm33" />
+      <module name="LeetCodeHot100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Algorithm394" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test1.Algorithm394" />
       <module name="LeetCodeHot100" />
@@ -116,7 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Algorithm287Test.findDuplicate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Algorithm438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1.Algorithm438" />
       <module name="LeetCodeHot100" />
       <extension name="coverage">
         <pattern>
@@ -124,15 +144,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test1" />
-      <option name="MAIN_CLASS_NAME" value="test1.Algorithm287Test" />
-      <option name="METHOD_NAME" value="findDuplicate" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Algorithm376Test.wiggleMaxLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Algorithm56Test.merge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeHot100" />
       <extension name="coverage">
         <pattern>
@@ -141,24 +157,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test1" />
-      <option name="MAIN_CLASS_NAME" value="test1.Algorithm376Test" />
-      <option name="METHOD_NAME" value="wiggleMaxLength" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Algorithm406Test.reconstructQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodeHot100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test1" />
-      <option name="MAIN_CLASS_NAME" value="test1.Algorithm406Test" />
-      <option name="METHOD_NAME" value="reconstructQueue" />
+      <option name="MAIN_CLASS_NAME" value="test1.Algorithm56Test" />
+      <option name="METHOD_NAME" value="merge" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -182,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Algorithm56Test.merge" />
+        <item itemvalue="Application.Algorithm33" />
+        <item itemvalue="Application.Algorithm438" />
         <item itemvalue="Application.Algorithm394" />
         <item itemvalue="JUnit.Algorithm647Test.countSubstrings" />
-        <item itemvalue="JUnit.Algorithm406Test.reconstructQueue" />
-        <item itemvalue="JUnit.Algorithm287Test.findDuplicate" />
-        <item itemvalue="JUnit.Algorithm376Test.wiggleMaxLength" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +247,17 @@
       <workItem from="1583913006515" duration="5197000" />
       <workItem from="1583981207238" duration="5115000" />
       <workItem from="1584005689337" duration="9872000" />
-      <workItem from="1584067999942" duration="19927000" />
+      <workItem from="1584067999942" duration="19996000" />
+      <workItem from="1584105028771" duration="623000" />
+      <workItem from="1584247329482" duration="10989000" />
+      <workItem from="1584278952999" duration="4520000" />
+      <workItem from="1584328827972" duration="1204000" />
+      <workItem from="1584342962610" duration="10494000" />
+      <workItem from="1584418132278" duration="4828000" />
+      <workItem from="1584436257231" duration="2606000" />
+      <workItem from="1584525387669" duration="3116000" />
+      <workItem from="1584587618274" duration="9567000" />
+      <workItem from="1584672183280" duration="9115000" />
     </task>
     <task id="LOCAL-00001" summary="更新第437题和第121题">
       <created>1582967634192</created>
@@ -277,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583505929104</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新第49、75、309、394、399、621、647、739题。">
+      <created>1584103955473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584103955473</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,7 +318,8 @@
     <MESSAGE value="更新第53、155、543以及581题。至此完成简单问题的解答" />
     <MESSAGE value="更新第39、78、208、225、303、307、347、677题。" />
     <MESSAGE value="更新第46、48、96、114、215、238、287、338、406题。" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新第46、48、96、114、215、238、287、338、406题。" />
+    <MESSAGE value="更新第49、75、309、394、399、621、647、739题。" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新第49、75、309、394、399、621、647、739题。" />
   </component>
   <component name="WindowStateProjectService">
     <state x="685" y="312" key="#Project_Structure" timestamp="1583487128273">
@@ -324,30 +342,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="201" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582705132416" />
-    <state x="719" y="209" key="CommitChangelistDialog2" timestamp="1583505927262">
+    <state x="719" y="209" key="CommitChangelistDialog2" timestamp="1584103954043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="719" y="209" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583505927262" />
-    <state x="872" y="319" key="FileChooserDialogImpl" timestamp="1583749281288">
+    <state x="719" y="209" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584103954043" />
+    <state x="1105" y="317" key="FileChooserDialogImpl" timestamp="1584451929060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="872" y="319" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583749281288" />
-    <state width="711" height="84" key="GridCell.Tab.0.bottom" timestamp="1584103854826">
+    <state x="1105" y="317" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584451929060" />
+    <state width="1191" height="295" key="GridCell.Tab.0.bottom" timestamp="1584427322885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="711" height="84" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584103854826" />
-    <state width="711" height="84" key="GridCell.Tab.0.center" timestamp="1584103854826">
+    <state width="1191" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584427322885" />
+    <state width="1191" height="295" key="GridCell.Tab.0.center" timestamp="1584427322885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="711" height="84" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584103854826" />
-    <state width="711" height="84" key="GridCell.Tab.0.left" timestamp="1584103854826">
+    <state width="1191" height="295" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584427322885" />
+    <state width="1191" height="295" key="GridCell.Tab.0.left" timestamp="1584427322885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="711" height="84" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584103854826" />
-    <state width="711" height="84" key="GridCell.Tab.0.right" timestamp="1584103854826">
+    <state width="1191" height="295" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584427322885" />
+    <state width="1191" height="295" key="GridCell.Tab.0.right" timestamp="1584427322885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="711" height="84" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584103854826" />
+    <state width="1191" height="295" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584427322885" />
     <state width="595" height="244" key="GridCell.Tab.1.bottom" timestamp="1583764660070">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -376,18 +394,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="683" y="329" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584103769861" />
-    <state x="634" y="448" key="com.intellij.ide.util.TipDialog" timestamp="1584068058576">
+    <state x="634" y="448" key="com.intellij.ide.util.TipDialog" timestamp="1584436260296">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="634" y="448" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584068058576" />
+    <state x="634" y="448" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584436260296" />
     <state x="762" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582184815263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="762" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1582184815263" />
-    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583743699858">
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584425668497">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583743699858" />
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584425668497" />
     <state x="348" y="152" key="new project wizard" timestamp="1582725474893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
